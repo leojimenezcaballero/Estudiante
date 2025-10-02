@@ -26,7 +26,7 @@
             estudiante3.despedirse();
 
 
-            System.out.println("El nombre del estudiante 2 es: " + estudiante2.getNombre());
+    
 
 
         }
